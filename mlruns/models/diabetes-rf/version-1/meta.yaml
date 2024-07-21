@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1721489666739
+current_stage: Archived
+description: This model was created usign Grid search
+last_updated_timestamp: 1721490433804
+name: diabetes-rf
+run_id: a6f978f8a9c04161bd0e44f0c47d3adc
+run_link: ''
+source: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/a6f978f8a9c04161bd0e44f0c47d3adc/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/a6f978f8a9c04161bd0e44f0c47d3adc/artifacts/random_forest
+user_id: null
+version: 1

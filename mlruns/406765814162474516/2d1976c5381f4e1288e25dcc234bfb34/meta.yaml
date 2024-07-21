@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/2d1976c5381f4e1288e25dcc234bfb34/artifacts
+end_time: 1721488984487
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 2d1976c5381f4e1288e25dcc234bfb34
+run_name: suave-roo-577
+run_uuid: 2d1976c5381f4e1288e25dcc234bfb34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721488984222
+status: 3
+tags: []
+user_id: Nitish

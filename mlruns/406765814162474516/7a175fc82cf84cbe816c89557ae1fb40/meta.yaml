@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/7a175fc82cf84cbe816c89557ae1fb40/artifacts
+end_time: 1721490310109
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 7a175fc82cf84cbe816c89557ae1fb40
+run_name: overjoyed-ant-650
+run_uuid: 7a175fc82cf84cbe816c89557ae1fb40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490310002
+status: 3
+tags: []
+user_id: Nitish

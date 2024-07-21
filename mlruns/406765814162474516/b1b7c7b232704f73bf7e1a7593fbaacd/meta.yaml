@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/b1b7c7b232704f73bf7e1a7593fbaacd/artifacts
+end_time: 1721490683389
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: b1b7c7b232704f73bf7e1a7593fbaacd
+run_name: wise-shrike-499
+run_uuid: b1b7c7b232704f73bf7e1a7593fbaacd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490683226
+status: 3
+tags: []
+user_id: Nitish

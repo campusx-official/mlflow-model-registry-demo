@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/aefb4e7ed65e4236bc7f867dbac7031d/artifacts
+end_time: 1721490683583
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: aefb4e7ed65e4236bc7f867dbac7031d
+run_name: flawless-sow-967
+run_uuid: aefb4e7ed65e4236bc7f867dbac7031d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490683426
+status: 3
+tags: []
+user_id: Nitish

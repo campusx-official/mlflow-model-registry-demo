@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/caa3387afa2f446190f9672b528f15c8/artifacts
+end_time: 1721490308830
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: caa3387afa2f446190f9672b528f15c8
+run_name: lyrical-rat-373
+run_uuid: caa3387afa2f446190f9672b528f15c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490308656
+status: 3
+tags: []
+user_id: Nitish

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/b99241ef0b5f4b5380638532fd5836bb/artifacts
+end_time: 1721490682047
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: b99241ef0b5f4b5380638532fd5836bb
+run_name: nebulous-hare-883
+run_uuid: b99241ef0b5f4b5380638532fd5836bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490681828
+status: 3
+tags: []
+user_id: Nitish

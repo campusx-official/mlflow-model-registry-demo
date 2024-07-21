@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/62320572d760427c9053952e6600d832/artifacts
+end_time: 1721490682730
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 62320572d760427c9053952e6600d832
+run_name: abundant-shark-595
+run_uuid: 62320572d760427c9053952e6600d832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490682632
+status: 3
+tags: []
+user_id: Nitish

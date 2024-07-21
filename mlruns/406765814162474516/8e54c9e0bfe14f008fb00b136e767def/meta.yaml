@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/8e54c9e0bfe14f008fb00b136e767def/artifacts
+end_time: 1721490311469
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 8e54c9e0bfe14f008fb00b136e767def
+run_name: welcoming-steed-564
+run_uuid: 8e54c9e0bfe14f008fb00b136e767def
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490311340
+status: 3
+tags: []
+user_id: Nitish

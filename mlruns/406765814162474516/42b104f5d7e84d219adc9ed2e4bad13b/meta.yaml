@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/42b104f5d7e84d219adc9ed2e4bad13b/artifacts
+end_time: 1721490309625
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 42b104f5d7e84d219adc9ed2e4bad13b
+run_name: sassy-tern-654
+run_uuid: 42b104f5d7e84d219adc9ed2e4bad13b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490309499
+status: 3
+tags: []
+user_id: Nitish

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/51879ba8a3944c30beb26015c617c684/artifacts
+end_time: 1721488983952
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 51879ba8a3944c30beb26015c617c684
+run_name: trusting-hog-388
+run_uuid: 51879ba8a3944c30beb26015c617c684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721488983865
+status: 3
+tags: []
+user_id: Nitish

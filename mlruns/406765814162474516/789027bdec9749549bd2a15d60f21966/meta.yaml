@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/789027bdec9749549bd2a15d60f21966/artifacts
+end_time: 1721490310230
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 789027bdec9749549bd2a15d60f21966
+run_name: wistful-elk-805
+run_uuid: 789027bdec9749549bd2a15d60f21966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490310128
+status: 3
+tags: []
+user_id: Nitish

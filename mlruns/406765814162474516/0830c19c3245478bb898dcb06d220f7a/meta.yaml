@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/0830c19c3245478bb898dcb06d220f7a/artifacts
+end_time: 1721490310457
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 0830c19c3245478bb898dcb06d220f7a
+run_name: orderly-calf-542
+run_uuid: 0830c19c3245478bb898dcb06d220f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490310367
+status: 3
+tags: []
+user_id: Nitish

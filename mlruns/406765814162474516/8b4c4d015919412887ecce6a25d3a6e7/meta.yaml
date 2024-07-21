@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/8b4c4d015919412887ecce6a25d3a6e7/artifacts
+end_time: 1721490311043
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 8b4c4d015919412887ecce6a25d3a6e7
+run_name: rare-elk-769
+run_uuid: 8b4c4d015919412887ecce6a25d3a6e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490310935
+status: 3
+tags: []
+user_id: Nitish

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/7622d83792c04572bc12abde2f7a6ecd/artifacts
+end_time: 1721490683916
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 7622d83792c04572bc12abde2f7a6ecd
+run_name: enchanting-rat-270
+run_uuid: 7622d83792c04572bc12abde2f7a6ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490683777
+status: 3
+tags: []
+user_id: Nitish

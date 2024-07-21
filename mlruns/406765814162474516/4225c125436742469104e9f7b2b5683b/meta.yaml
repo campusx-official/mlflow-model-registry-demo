@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/4225c125436742469104e9f7b2b5683b/artifacts
+end_time: 1721490311803
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 4225c125436742469104e9f7b2b5683b
+run_name: serious-stoat-146
+run_uuid: 4225c125436742469104e9f7b2b5683b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490311513
+status: 3
+tags: []
+user_id: Nitish

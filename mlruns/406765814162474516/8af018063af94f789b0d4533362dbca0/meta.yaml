@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/8af018063af94f789b0d4533362dbca0/artifacts
+end_time: 1721488984193
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 8af018063af94f789b0d4533362dbca0
+run_name: clean-crane-37
+run_uuid: 8af018063af94f789b0d4533362dbca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721488984103
+status: 3
+tags: []
+user_id: Nitish

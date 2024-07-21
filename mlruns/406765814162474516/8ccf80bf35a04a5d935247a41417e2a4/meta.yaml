@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/8ccf80bf35a04a5d935247a41417e2a4/artifacts
+end_time: 1721488985426
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 8ccf80bf35a04a5d935247a41417e2a4
+run_name: intelligent-hen-734
+run_uuid: 8ccf80bf35a04a5d935247a41417e2a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721488985276
+status: 3
+tags: []
+user_id: Nitish

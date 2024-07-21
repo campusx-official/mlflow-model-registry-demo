@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/d5cef73f96eb4497bbf1fc13ab397848/artifacts
+end_time: 1721490308630
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: d5cef73f96eb4497bbf1fc13ab397848
+run_name: learned-deer-223
+run_uuid: d5cef73f96eb4497bbf1fc13ab397848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490308539
+status: 3
+tags: []
+user_id: Nitish

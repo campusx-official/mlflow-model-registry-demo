@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/8243e6a2b6604afca0c05bd066b1b1ea/artifacts
+end_time: 1721490310920
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 8243e6a2b6604afca0c05bd066b1b1ea
+run_name: merciful-wolf-980
+run_uuid: 8243e6a2b6604afca0c05bd066b1b1ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490310835
+status: 3
+tags: []
+user_id: Nitish

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/9c8268ff633443adb0e7913c69998b9e/artifacts
+end_time: 1721488984670
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 9c8268ff633443adb0e7913c69998b9e
+run_name: unequaled-mare-160
+run_uuid: 9c8268ff633443adb0e7913c69998b9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721488984509
+status: 3
+tags: []
+user_id: Nitish

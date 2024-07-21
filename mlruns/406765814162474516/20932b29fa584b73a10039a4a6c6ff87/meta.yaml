@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/20932b29fa584b73a10039a4a6c6ff87/artifacts
+end_time: 1721490312038
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 20932b29fa584b73a10039a4a6c6ff87
+run_name: gentle-ram-352
+run_uuid: 20932b29fa584b73a10039a4a6c6ff87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490311835
+status: 3
+tags: []
+user_id: Nitish

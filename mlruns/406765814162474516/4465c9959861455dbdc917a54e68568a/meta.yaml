@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/4465c9959861455dbdc917a54e68568a/artifacts
+end_time: 1721490682609
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 4465c9959861455dbdc917a54e68568a
+run_name: trusting-smelt-340
+run_uuid: 4465c9959861455dbdc917a54e68568a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490682480
+status: 3
+tags: []
+user_id: Nitish

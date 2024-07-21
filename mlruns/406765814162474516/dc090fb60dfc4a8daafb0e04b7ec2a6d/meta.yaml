@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/dc090fb60dfc4a8daafb0e04b7ec2a6d/artifacts
+end_time: 1721490683029
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: dc090fb60dfc4a8daafb0e04b7ec2a6d
+run_name: trusting-deer-812
+run_uuid: dc090fb60dfc4a8daafb0e04b7ec2a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490682926
+status: 3
+tags: []
+user_id: Nitish

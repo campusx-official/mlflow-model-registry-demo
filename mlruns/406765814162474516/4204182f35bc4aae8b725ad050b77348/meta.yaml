@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/4204182f35bc4aae8b725ad050b77348/artifacts
+end_time: 1721490309328
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 4204182f35bc4aae8b725ad050b77348
+run_name: serious-boar-139
+run_uuid: 4204182f35bc4aae8b725ad050b77348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490309069
+status: 3
+tags: []
+user_id: Nitish

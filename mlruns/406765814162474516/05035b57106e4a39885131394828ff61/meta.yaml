@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/05035b57106e4a39885131394828ff61/artifacts
+end_time: 1721488985262
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 05035b57106e4a39885131394828ff61
+run_name: loud-donkey-569
+run_uuid: 05035b57106e4a39885131394828ff61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721488985174
+status: 3
+tags: []
+user_id: Nitish

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/529005a1ddac4757b7671d5905953e63/artifacts
+end_time: 1721490308523
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 529005a1ddac4757b7671d5905953e63
+run_name: loud-bat-491
+run_uuid: 529005a1ddac4757b7671d5905953e63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490308317
+status: 3
+tags: []
+user_id: Nitish

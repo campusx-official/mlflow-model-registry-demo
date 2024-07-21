@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/a642fb77953643bfa7b146b4d8f185f6/artifacts
+end_time: 1721490684100
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: a642fb77953643bfa7b146b4d8f185f6
+run_name: caring-mink-862
+run_uuid: a642fb77953643bfa7b146b4d8f185f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490683951
+status: 3
+tags: []
+user_id: Nitish

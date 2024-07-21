@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/be89e1b6e3624332ae39b9644602a533/artifacts
+end_time: 1721490683198
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: be89e1b6e3624332ae39b9644602a533
+run_name: sassy-ape-65
+run_uuid: be89e1b6e3624332ae39b9644602a533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490683047
+status: 3
+tags: []
+user_id: Nitish

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nitish/Desktop/mlops/model-registry-demo/mlruns/406765814162474516/85c62c04aff046bb9c226509f78152b3/artifacts
+end_time: 1721490312232
+entry_point_name: ''
+experiment_id: '406765814162474516'
+lifecycle_stage: active
+run_id: 85c62c04aff046bb9c226509f78152b3
+run_name: languid-sheep-693
+run_uuid: 85c62c04aff046bb9c226509f78152b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721490312065
+status: 3
+tags: []
+user_id: Nitish
